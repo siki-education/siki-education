@@ -1,1 +1,2 @@
 Siki-education.github.io
+google-site-verification=X01yRIZTEoawTVp8xuJp2JLqSG3sGGTOUIBzTZjrNzY

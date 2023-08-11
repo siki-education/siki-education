@@ -1,151 +1,302 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"> 
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
-<loc>https://siki-education.github.io/index.html</loc>
-<lastmod>2023-02-27</lastmod>
+  <loc>https://siki-education.github.io/</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-<loc>https://siki-education.github.io/courses.html</loc>
-<lastmod>2023-02-27</lastmod>
+  <loc>https://siki-education.github.io/index.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://siki-education.github.io/web-developers.html</loc>
-<lastmod>2023-02-27</lastmod>
+  <loc>https://siki-education.github.io/courses.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://siki-education.github.io/PHOTO-VIDEO EDITING.html</loc>
-<lastmod>2023-02-27</lastmod>
+  <loc>https://siki-education.github.io/p-p-generator/index.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://siki-education.github.io/photoshopbasic.html</loc>
-<lastmod>2023-02-27</lastmod>
+  <loc>https://siki-education.github.io/web-developers</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://siki-education.github.io/c++.html</loc>
-<lastmod>2023-02-27</lastmod>
+  <loc>https://siki-education.github.io/PHOTO-VIDEO%20EDITING.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://siki-education.github.io/Complete JAVASCRIPT with HTML5,CSS3 from zero to Expert-2021.html</loc>
-<lastmod>2023-02-27</lastmod>
+  <loc>https://siki-education.github.io/Crypto.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://siki-education.github.io/Cyber Security and Ethical Hacking introduction course.html</loc>
-<lastmod>2023-02-27</lastmod>
+  <loc>https://siki-education.github.io/photoshopbasic.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://siki-education.github.io/BACK-END.html</loc>
-<lastmod>2023-02-27</lastmod>
+  <loc>https://siki-education.github.io/c++.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://siki-education.github.io/Adobe Photoshop CC. Your Complete Guide to Photoshop 2021.html</loc>
-<lastmod>2023-02-27</lastmod>
+  <loc>https://siki-education.github.io/Complete%20JAVASCRIPT%20with%20HTML5,CSS3%20from%20zero%20to%20Expert-2021.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://siki-education.github.io/Adobe Photoshop Selections Master Course. Be a Hero Selector.html</loc>
-<lastmod>2023-02-27</lastmod>
+  <loc>https://siki-education.github.io/Cyber%20Security%20and%20Ethical%20Hacking%20introduction%20course.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://siki-education.github.io/adobe Premiere Pro CC Essential Video Editing Zero To Hero.html</loc>
-<lastmod>2023-02-27</lastmod>
+  <loc>https://siki-education.github.io/Contact%20us.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://siki-education.github.io/adobe XD CC 2020.html</loc>
-<lastmod>2023-02-27</lastmod>
+  <loc>https://siki-education.github.io/privacy%20policy.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://siki-education.github.io/Artificial Intelligence (AI) Logo Design.html</loc>
-<lastmod>2023-02-27</lastmod>
+  <loc>https://siki-education.github.io/Terms%20and%20Conditions.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://siki-education.github.io/courses-2.html</loc>
-<lastmod>2023-02-27</lastmod>
+  <loc>https://siki-education.github.io/web-developers.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://siki-education.github.io/courses-3.html</loc>
-<lastmod>2023-02-27</lastmod>
+  <loc>https://siki-education.github.io/BACK-END.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://siki-education.github.io/courses-4.html</loc>
-<lastmod>2023-02-27</lastmod>
+  <loc>https://siki-education.github.io/Shahid-anwar.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://siki-education.github.io/Complete Javascript Course for Beginners.html</loc>
-<lastmod>2023-02-27</lastmod>
+  <loc>https://siki-education.github.io/AI.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://siki-education.github.io/Complete Responsive Web Development.html</loc>
-<lastmod>2023-02-27</lastmod>
+  <loc>https://siki-education.github.io/Adobe%20Photoshop%20CC.%20Your%20Complete%20Guide%20to%20Photoshop%202021.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://siki-education.github.io/Complete SEO Training 2021.html</loc>
-<lastmod>2023-02-27</lastmod>
+  <loc>https://siki-education.github.io/Adobe%20Photoshop%20Selections%20Master%20Course.%20Be%20a%20Hero%20Selector.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://siki-education.github.io/Complete NodeJS course with express, socket io and MongoDB.html</loc>
-<lastmod>2023-02-27</lastmod>
-</url>
-<!-- <url>
- <loc>https://siki-education.github.io/Create a Members Only Blog using PHP, MySQL, & AJAX.html</loc> 
-<lastmod>2023-02-27</lastmod>
-</url> -->
-<url>
-<loc>https://siki-education.github.io/Amazon FBA - How to Find Suppliers and Manufacturers.html</loc>
-<lastmod>2023-02-27</lastmod>
+  <loc>https://siki-education.github.io/adobe%20Premiere%20Pro%20CC%20Essential%20Video%20Editing%20Zero%20To%20Hero.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://siki-education.github.io/Aircraft Structure.html</loc>
-<lastmod>2023-02-27</lastmod>
+  <loc>https://siki-education.github.io/adobe%20XD%20CC%202020.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://siki-education.github.io/Anti-Money Laundering Concepts.html</loc>
-<lastmod>2023-02-27</lastmod>
+  <loc>https://siki-education.github.io/Artificial%20Intelligence%20(AI)%20Logo%20Design.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://siki-education.github.io/ARM Cortex-M.html</loc>
-<lastmod>2023-02-27</lastmod>
+  <loc>https://siki-education.github.io/courses-2.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://siki-education.github.io/Artificial Intelligence and the Future of Work .html</loc>
-<lastmod>2023-02-27</lastmod>
+  <loc>https://siki-education.github.io/courses-3.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://siki-education.github.io/Artificial Intelligence Expert Certification.html</loc>
-<lastmod>2023-02-27</lastmod>
+  <loc>https://siki-education.github.io/courses-4.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://siki-education.github.io/Agile Kanban. Kanban for Software Development Teams.html</loc>
-<lastmod>2023-02-27</lastmod>
+  <loc>https://siki-education.github.io/Complete%20Javascript%20Course%20for%20Beginners.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://siki-education.github.io/Agile Project Management. Agile, Scrum, .html</loc>
-<lastmod>2023-02-27</lastmod>
+  <loc>https://siki-education.github.io/Complete%20Responsive%20Web%20Development.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://siki-education.github.io/Be an expert in English Grammar.html</loc>
-<lastmod>2023-02-27</lastmod>
+  <loc>https://siki-education.github.io/Complete%20SEO%20Training%202021.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://siki-education.github.io/Artificial Intelligence for Civil Engineers. Part 1 (2021).html</loc>
-<lastmod>2023-02-27</lastmod>
+  <loc>https://siki-education.github.io/Convolutional%20Neural%20Networks%20in%20Python.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://siki-education.github.io/Automate your Job-Search.html</loc>
-<lastmod>2023-02-27</lastmod>
+  <loc>https://siki-education.github.io/Remove%20any%20background%20in%20Photoshop%20CC%20.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://siki-education.github.io/Complete Short Black Scholes Options Trading.html</loc>
-<lastmod>2023-02-27</lastmod>
+  <loc>https://siki-education.github.io/index</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://siki-education.github.io/Connect and Interface Raspberry.html</loc>
-<lastmod>2023-02-27</lastmod>
+  <loc>https://siki-education.github.io/The%20complete%20introduction%20to%20cryptocurrencies%20trading.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://siki-education.github.io/Content Samurai. Super High-Speed Video Creation.html</loc>
-<lastmod>2023-02-27</lastmod>
+  <loc>https://siki-education.github.io/Cryptocurrency-Bitcoin-Made-Easy-(First-Timer's-Guide).html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://siki-education.github.io/Convolutional Neural Networks in Python.html</loc>
-<lastmod>2023-02-27</lastmod>
+  <loc>https://siki-education.github.io/Cryptocurrency-Trading-for-Beginners-(Learn-CLICK-BY-CLICK).html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
+<url>
+  <loc>https://siki-education.github.io/Cryptocurrencies-BTC-and-Alts-Trading-with-Technical-Analysis.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://siki-education.github.io/Complete%20NodeJS%20course%20with%20express,%20socket%20io%20and%20MongoDB.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://siki-education.github.io/Create%20a%20Members%20Only%20Blog%20using%20PHP,%20MySQL,%20&amp;%20AJAX.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://siki-education.github.io/Shahid%20Anwar-Amazon%20Whole%20sale.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://siki-education.github.io/Shahid%20Anwar-Amazon%20FBA%20Global%20Selling%20Course.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://siki-education.github.io/Shahid%20Anwar-Amazon%20FBM%20Course.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://siki-education.github.io/Shahid%20Anwar-Dropshipping%20Course.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://siki-education.github.io/Shahid%20Anwar-How%20To%20Create%20NFTs.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://siki-education.github.io/Shahid%20Anwar-How%20To%20Sell%20On%20Facebook%20MarketPlace.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://siki-education.github.io/Artificial%20Intelligence%20and%20the%20Future%20of%20Work%20.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://siki-education.github.io/Artificial%20Intelligence%20Expert%20Certification.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://siki-education.github.io/Artificial%20Intelligence%20for%20Civil%20Engineers.%20Part%201%20(2021).html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://siki-education.github.io/Amazon%20FBA%20-%20How%20to%20Find%20Suppliers%20and%20Manufacturers.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://siki-education.github.io/Aircraft%20Structure.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://siki-education.github.io/Anti-Money%20Laundering%20Concepts.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://siki-education.github.io/ARM%20Cortex-M.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://siki-education.github.io/Agile%20Kanban.%20Kanban%20for%20Software%20Development%20Teams.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://siki-education.github.io/Agile%20Project%20Management.%20Agile,%20Scrum,%20.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://siki-education.github.io/Be%20an%20expert%20in%20English%20Grammar.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://siki-education.github.io/Automate%20your%20Job-Search.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://siki-education.github.io/Complete%20Short%20Black%20Scholes%20Options%20Trading.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://siki-education.github.io/Connect%20and%20Interface%20Raspberry.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://siki-education.github.io/Content%20Samurai.%20Super%20High-Speed%20Video%20Creation.html</loc>
+  <lastmod>2023-08-10T22:50:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
 </urlset>
